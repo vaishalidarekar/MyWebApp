@@ -8,7 +8,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h1> User Registration Home Page Jenkin and GitHub Integration </h1>
+<h1> User Registration Home Page Jenkin and GitHub Integration-Build </h1>
 The Date and Time : <%=new java.util.Date() %>
  
 <ul>
